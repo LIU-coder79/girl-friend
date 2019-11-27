@@ -1,1 +1,1 @@
-I love php.
+I love cpp.
